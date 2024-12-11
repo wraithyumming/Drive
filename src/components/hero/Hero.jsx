@@ -16,7 +16,7 @@ const Hero = () => {
                 </div>
                 <div className={styles.form}>
                     <span className={styles.border}></span>
-                    <label>From</label>
+                    <label>From </label>
                     <input type="date" />
                 </div>
                 <div className={styles.until}>
